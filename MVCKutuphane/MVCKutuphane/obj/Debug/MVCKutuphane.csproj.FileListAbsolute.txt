@@ -1,0 +1,682 @@
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csprojAssemblyReference.cache
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\Erdi\Desktop\Projeler\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csprojAssemblyReference.cache
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\Erdi\Desktop\Project\MVCKütüphane\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.AssemblyReference.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\MVCKutuphane-master\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.AssemblyReference.cache
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\zelal\OneDrive\Masaüstü\MVCKutuphanee\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.AssemblyReference.cache
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\emret\Desktop\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.AssemblyReference.cache
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\emret\source\repos\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.AssemblyReference.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\BlockChainLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\DataAccessLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\BlockChainLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\DataAccessLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\MVCKutuphane\bin\DataAccessLayer.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\MVCKutuphane.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\csc.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\csi.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Console.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Claims.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\vbc.rsp
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\BlockChainLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\DataAccessLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\EntityFramework.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\PagedList.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\WebGrease.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\BlockChainLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\DataAccessLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\DataAccessLayer.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\EntityFramework.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\PagedList.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\PagedList.Mvc.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Helpers.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Mvc.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Optimization.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.Razor.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Newtonsoft.Json.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.AssemblyReference.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.csproj.CopyComplete
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\MVCKutuphane\obj\Debug\MVCKutuphane.pdb

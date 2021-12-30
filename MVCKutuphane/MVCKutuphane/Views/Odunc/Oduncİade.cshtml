@@ -1,0 +1,30 @@
+﻿@model DataAccessLayer.Model.Entity.tblHareket
+@{ ViewBag.Title = "Oduncİade";
+    Layout = "~/Views/Shared/Layout.cshtml"; }
+<title>İade al</title>
+
+@using (Html.BeginForm("OduncGuncelle", "Odunc", FormMethod.Post))
+{
+<div style="margin-bottom: 15px">
+
+    <div class="form-group">
+        <label>Hareket Id</label>
+        @Html.TextBoxFor(i => i.ID, new { @class = "form-control", @readonly = "readonly" })
+        <br />
+        <label>Kitap Id</label>
+        @Html.TextBoxFor(i => i.tblKitap.ID, new { @class = "form-control", @readonly = "readonly" })
+        <br />
+        <label>Üye Id</label>
+        @Html.TextBoxFor(i => i.tblUyeler.ID, new { @class = "form-control", @readonly = "readonly" })
+        <br />
+        <label>Personel Id</label>
+        @Html.TextBoxFor(i => i.tblPersonel.ID, new { @class = "form-control", @readonly = "readonly" })
+        <br />
+        <label>Alış Tarihi</label>
+        @Html.TextBoxFor(i => i.ISLEMTARIHI, new { @class = "form-control", @readonly = "readonly" })
+        <input type="hidden" value="True" name="ISLEMDURUM" />
+        <input type="hidden" value="iade" name="ISLEMTURU" id="islemTuru" />
+    </div>
+    <button class="btn btn-warning">Ödünc Kitabı İade Al</button>
+</div>}
+

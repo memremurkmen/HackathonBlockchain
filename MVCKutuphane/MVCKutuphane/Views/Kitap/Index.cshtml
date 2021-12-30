@@ -1,0 +1,55 @@
+﻿@using DataAccessLayer.Model.Entity
+@model List<tblKitap>
+@{
+    ViewBag.Title = "Kitaplar";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<title>@ViewBag.Title</title>
+<h2>Kitap Sayfası</h2>
+
+@using (Html.BeginForm("Index", "Kitap", FormMethod.Get))
+{
+    <div style="margin-bottom:15px; margin-top:15px;">
+        <b>Aranacak Kitap Adını Girin:&nbsp;</b> @Html.TextBox("p")
+        <input type="submit" value="Ara" />
+    </div>
+}
+@using (Html.BeginForm("Index2", "Kitap", FormMethod.Get))
+{
+    <div style="margin-bottom:15px; margin-top:15px;">
+        <b>Aranacak Kitap Basım Yılı Girin:&nbsp;</b> @Html.TextBox("baslangic") @Html.TextBox("bitis")
+        <input type="submit" value="Ara" />
+    </div>
+}
+
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Kitap Adı</th>
+        <th>Kitap Yazarı</th>
+        <th>Kategorisi</th>
+        <th>Basım Yılı</th>
+        <th>Yayınevi</th>
+        <th>Sayfa</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var k in Model)
+    {
+        <tr>
+            <td>@k.ID</td>
+            <td>@k.AD</td>
+            <td>@k.tblYazar.AD @k.tblYazar.SOYAD</td>
+            <td>@k.tblKategori.AD</td>
+            <td>@k.BASIMYIL</td>
+            <td>@k.YAYINEVI</td>
+            <td>@k.SAYFA</td>
+            <td><a href="/Kitap/KitapSil/@k.ID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Kitap/KitapGetir/@k.ID" class="btn btn-success">Güncelle</a></td>
+        </tr>
+    }
+</table>
+<p>Toplam Kitap Sayısı: @ViewBag.kitapSayisi</p>
+<a href="/Kitap/KitapEkle" class="btn btn-primary">Yeni Kitap Ekle</a>

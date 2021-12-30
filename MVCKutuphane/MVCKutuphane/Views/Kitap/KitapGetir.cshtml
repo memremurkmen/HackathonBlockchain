@@ -1,0 +1,45 @@
+﻿@model DataAccessLayer.Model.Entity.tblKitap
+@{
+    ViewBag.Title = "KitapGüncelle";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<title>Kitap Güncelle</title>
+
+@using (Html.BeginForm("KitapGuncelle", "Kitap", FormMethod.Post))
+{
+    <div style="margin-bottom:15px"></div>
+    <div class="form-group">
+        <div style="margin-bottom:15px">
+            <label>Kitap ID</label>
+            @Html.TextBoxFor(k => k.ID, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <div style="margin-bottom:15px">
+            <label>Kitap Adı</label>
+            @Html.TextBoxFor(k => k.AD, new { @class = "form-control" })
+        </div>
+        <div style="margin-bottom:15px">
+            <label>Kategori</label>
+            @Html.DropDownListFor(k => k.tblKategori.ID, (List<SelectListItem>)ViewBag.deger1,
+       new { @class = "form-control" })
+        </div>
+        <div style="margin-bottom:15px">
+            <label>Yazarı</label>
+            @Html.DropDownListFor(k => k.tblYazar.ID, (List<SelectListItem>)ViewBag.deger2,
+       new { @class = "form-control" })
+        </div>
+        <div style="margin-bottom:15px">
+            <label>Basım Yılı</label>
+            @Html.TextBoxFor(k => k.BASIMYIL, new { @class = "form-control" })
+        </div>
+        <div style="margin-bottom:15px">
+            <label>Yayınevi</label>
+            @Html.TextBoxFor(k => k.YAYINEVI, new { @class = "form-control" })
+        </div>
+        <div style="margin-bottom:15px">
+            <label>Sayfa Sayısı</label>
+            @Html.TextBoxFor(k => k.SAYFA, new { @class = "form-control" })
+        </div>
+        <button class="btn btn-warning">Kitap Bilgilerini Güncelle</button>
+    </div>
+}
+

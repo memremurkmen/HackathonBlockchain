@@ -1,0 +1,38 @@
+﻿@using DataAccessLayer.Model.Entity
+@model List<tblHareket>
+@{ ViewBag.Title = "Kitaplarim";
+    Layout = "~/Views/Shared/LayoutPanel.cshtml"; }
+
+<title>Kitaplarım</title>
+<body style="background-image: url(../login-form-20/login-form-20/images/7.jpg)">
+    <div>
+        <div style="text-align:center; background-color:#453f3f; width:400px;">
+            <table class="table table-bordered">
+                <tr>
+                    <th style="text-align:center"><span style="color:white">KİTAP İŞLEM GEÇMİŞİM</span></th>
+                </tr>
+            </table>
+        </div>
+
+        <div style="height:100vh;">
+            <table class="table table-bordered">
+                <tr style="background-color:gray; color:white;">
+                    <th>KİTAP ADI</th>
+                    <th>İŞLEM TARİHİ</th>
+                    <th>İŞLEM TÜRÜ</th>
+                </tr>
+
+                @foreach (var hareket in Model)
+                {
+    <tr style="background-color:darkgray;">
+        <td>@hareket.tblKitap.AD</td>
+        <td>@Convert.ToDateTime(hareket.ISLEMTARIHI)</td>
+        <td>@hareket.ISLEMTURU</td>
+    </tr>
+}
+            </table>
+        </div>
+    </div>
+</body>
+
+

@@ -1,0 +1,39 @@
+﻿@using DataAccessLayer.Model.Entity
+@model List<tblHareket>
+
+@{ ViewBag.Title = "İşlemler";
+    Layout = "~/Views/Shared/Layout.cshtml"; }
+
+<h2>İadesi Alınan Kitap Listesi</h2>
+<title>İade Edilmiş Kitaplar</title>
+<table class="table table-bordered">
+    <tr>
+        <th>İşlem Id</th>
+        <th>Kitap Adı</th>
+        <th>Üye</th>
+        <th>Personel</th>
+        <th>İşlem Tarihi </th>
+        <th>İşlem Türü</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>@item.ID</td>
+    <td>@item.tblKitap.AD</td>
+    <td>@item.tblUyeler.AD&nbsp @item.tblUyeler.SOYAD</td>
+    <td>@item.tblPersonel.PERSONEL</td>
+    <td>@Convert.ToDateTime(item.ISLEMTARIHI).ToString() </td>
+    <td>@item.ISLEMTURU</td>
+
+</tr>}
+
+
+
+
+
+</table>
+
+
+

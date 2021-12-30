@@ -1,0 +1,19 @@
+﻿@model DataAccessLayer.Model.Entity.tblPersonel
+
+@{ ViewBag.Title = "PersonelGetir";
+    Layout = "~/Views/Shared/Layout.cshtml"; }
+<title>Personel Güncelle</title>
+
+@using (Html.BeginForm("PersonelGuncelle", "Personel", FormMethod.Post))
+{
+<div style="margin-bottom:15px"></div>
+                <div class="form-group">
+                    @Html.LabelFor(p => p.ID)
+                    @Html.TextBoxFor(p => p.ID, new { @class = "form-control", @readonly = "readonly" })
+                    <br />
+                    <label>PERSONEL ADI</label>
+                    @Html.TextBoxFor(p => p.PERSONEL, new { @class = "form-control" })
+                </div>
+                                <div>
+                                    <button class="btn btn-warning">Güncelle</button>
+                                </div>}

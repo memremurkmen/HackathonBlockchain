@@ -1,0 +1,66 @@
+﻿@model DataAccessLayer.Model.Entity.tblHareket
+@{ ViewBag.Title = "OduncVer";
+    Layout = "~/Views/Shared/Layout.cshtml"; }
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Ödünç Kitap Ver</title>
+</head>
+<body>
+    <form class="form-group" method="POST">
+
+        <div style="margin-top: 15px">
+
+            <label>Üye Id</label>
+            <input type="text" class="form-control" name="UYE" id="uye" />
+        </div>
+        <div style="margin-top: 15px">
+
+            <label>Kitap Id</label>
+            <input type="text" class="form-control" name="KITAP" id="kitap" />
+        </div>
+        <div style="margin-top: 15px">
+
+            <label>Personel Id</label>
+            <input type="text" class="form-control" name="PERSONEL" id="personel" />
+        </div>
+        <div style="margin-top: 15px">
+
+            <label>Kitap Alış Tarihi </label>
+            <input type="text" class="form-control" name="ISLEMTARIHI" id="islemTarihi" value="@DateTime.Now.ToString()" />
+        </div>
+        <div style="margin-top: 15px">
+            <button class="btn btn-group" style="background-color: crimson; color:white" id="Btn1" onclick="gonder()">Kitabı Ödünç Ver</button>
+            @*<input type="button" class="btn btn-info" name="Btn1" id="Btn1" onclick='gonder()' value="Kitabı Ödünç Ver" />*@
+        </div>
+        <input type="hidden" value="False" name="ISLEMDURUM" />
+        <input type="hidden" value="alış" name="ISLEMTURU" id="islemTuru"/>
+
+    </form>
+</body>
+<script>
+    function gonder() {
+        var islem = {
+            uye: document.getElementById("uye").value,
+            kitap: document.getElementById("kitap").value,
+            personel: document.getElementById("personel").value,
+            islemTarihi: document.getElementById("islemTarihi").value,
+            islemTuru: document.getElementById("islemTuru").value
+        };
+        $.ajax({
+            url: 'http://localhost:3222/getIslem',
+            method: 'POST',
+            dataType: 'json',
+            data: { 'islem': JSON.stringify(islem) },
+            success: function (response) {
+                alert("success")
+            },
+            error: function (response) {
+            }
+        });
+
+    }
+</script>
+

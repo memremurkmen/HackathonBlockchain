@@ -1,0 +1,27 @@
+﻿@using DataAccessLayer.Model.Entity
+@model List<tblPersonel>
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml"; }
+<title>Personeller</title>
+
+<h2>Personeller</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>PERSONEL ID</th>
+        <th>PERSONEL ADI</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    @foreach (var prsnl in Model)
+    {
+        <tr>
+            <td>@prsnl.ID</td>
+            <td>@prsnl.PERSONEL</td>
+            <td><a href="/Personel/PersonelSil/@prsnl.ID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Personel/PersonelGetir/@prsnl.ID" class="btn btn-success">Güncelle</a></td>
+        </tr>
+    }
+
+</table>
+<a href="/Personel/PersonelEkle/" class="btn btn-primary">Yeni Personel Ekle</a>

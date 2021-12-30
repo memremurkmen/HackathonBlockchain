@@ -1,0 +1,42 @@
+﻿@model DataAccessLayer.Model.Entity.tblUyeler
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/LayoutPanel.cshtml";
+}
+
+<title>Profilim</title>
+
+
+@* Girilen maili panelimde taşıma kısmı*@
+
+<body style="background-image: url(../login-form-20/login-form-20/images/7.jpg)">
+    <table class="table table-hover" style="margin-top:15px;">
+
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight:bolder;">MAİL ADRES</label> @HttpContext.Current.User.Identity.Name</td>
+        </tr>
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight: bolder;">AD </label>@Session["AD"].ToString()
+        </tr>
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight: bolder;">SOYAD </label>@Session["SOYAD"].ToString()
+        </tr>
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight: bolder;">KULLANICI ADI </label>@Session["KULLANICIADI"].ToString()
+        </tr>
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight: bolder;">SİFRE </label>@Session["SIFRE"].ToString()
+        </tr>
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight: bolder;">TELEFON </label>@Session["TELEFON"].ToString()
+        </tr>
+        <tr>
+            <td><label class="card-img-bottom" style="font-weight: bolder;">OKUL </label>@Session["OKUL"].ToString()
+        </tr>
+
+
+    </table>
+
+</body>
+
+

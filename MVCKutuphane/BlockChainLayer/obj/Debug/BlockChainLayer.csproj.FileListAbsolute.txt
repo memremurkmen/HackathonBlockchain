@@ -1,0 +1,24 @@
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\BlockChainLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\BlockChainLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.csproj.AssemblyReference.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\EntityFramework.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\bin\Debug\EntityFramework.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\yedek\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.csproj.CopyComplete
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\BlockChainLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\BlockChainLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\EntityFramework.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\bin\Debug\EntityFramework.xml
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.csproj.AssemblyReference.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.csproj.CopyComplete
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.dll
+C:\Users\emret\Desktop\ders\3. sınıf 1.dönem\Hackathon\Hackathon Proje\MVCKutuphane\BlockChainLayer\obj\Debug\BlockChainLayer.pdb

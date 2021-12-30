@@ -1,0 +1,44 @@
+﻿@using DataAccessLayer.Model.Entity
+@model List<tblHareket>
+@{
+    ViewBag.Title = "İadesiz Kitaplar";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+    <title>İadesiz Kitaplar</title>
+<h2>İadesi Yapılmamış Kitap Listesi</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>İşlem Id</th>
+        <th>Kitap Adı</th>
+        <th>Üye</th>
+        <th>Personel</th>
+        <th>İşlem Tarihi </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>@item.ID</td>
+    <td>@item.tblKitap.AD</td>
+    <td>@item.tblUyeler.AD&nbsp @item.tblUyeler.SOYAD</td>
+    <td>@item.tblPersonel.PERSONEL</td>
+    <td>@Convert.ToDateTime(item.ISLEMTARIHI).ToString() </td>
+
+    <td>
+        <a href="/Odunc/Oduncİade/@item.ID" class="btn btn-default" style="background-color: #d2691e">Kitabı İade Al</a>
+    </td>
+
+
+
+</tr>}
+
+
+
+
+
+</table>
+
+
+

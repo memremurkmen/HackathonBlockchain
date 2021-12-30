@@ -1,0 +1,57 @@
+﻿@model DataAccessLayer.Model.Entity.tblUyeler
+@{
+    ViewBag.Title = "UyeEkle";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<title>Üye Ekle</title>
+<h2>UyeEkle</h2>
+<form class="form-group" method="post">
+    <div></div>
+    <div style="margin-top:15px">
+        <label>Üye Adı</label>
+        @Html.TextBoxFor(x => x.AD, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.AD, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Üye Soyadı</label>
+        @Html.TextBoxFor(x => x.SOYAD, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.SOYAD, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Mail Adresi</label>
+        @Html.TextBoxFor(x => x.MAIL, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.MAIL, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Kullanıcı Adi</label>
+        @Html.TextBoxFor(x => x.KULLANICIADI, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.KULLANICIADI, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Şifre</label>
+        @Html.TextBoxFor(x => x.SIFRE, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.SIFRE, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Telefon</label>
+        @Html.TextBoxFor(x => x.TELEFON, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.TELEFON, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Okul</label>
+        @Html.TextBoxFor(x => x.OKUL, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.OKUL, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Tc</label>
+        @Html.TextBoxFor(x => x.TC, new { @class = "form-control" })
+    </div>
+    <div style="margin-top:15px">
+        <label>Doğum Yılı</label>
+        @Html.TextBoxFor(x => x.DOGUMYILI, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.DOGUMYILI, "", new { @style = "color:forestgreen" })
+    </div>
+    <div style=" margin-top:15px">
+        <button class="btn btn-danger" id="Btn1">Üye Ekle</button>
+    </div>
+</form>

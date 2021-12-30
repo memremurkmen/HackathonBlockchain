@@ -1,0 +1,75 @@
+﻿@using DataAccessLayer.Model.Entity
+@model List<tblBlock>
+@{
+    ViewBag.Title = "Blockchain";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Blockchain</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<h2>Blok @ViewBag.chainControl</h2>
+<body>
+    @using (Html.BeginForm("Index2", "BlockChain", FormMethod.Get))
+    {
+        <button class="btn btn-group" style="background-color: crimson; color:white" id="btnBitir" onclick="getTransaction()">Günü Bitir</button>
+
+        <table class="table table-bordered">
+            <tr>
+                <th>BLOCK ID</th>
+                <th>TARİH</th>
+                <th>DATA</th>
+                <th>PREVHASH</th>
+                <th>HASH</th>
+            </tr>
+            @foreach (var blck in Model)
+            {
+                if (ViewBag.brokenBlockIndex <= blck.id)
+                {
+                    <tr style="background-color:indianred">
+                        <td>@blck.id</td>
+                        <td>@blck.timestamp</td>
+                        <td>@blck.data</td>
+                        <td>@blck.hashPrev</td>
+                        <td>@blck.hash</td>
+                    </tr>
+                }
+                else
+                {
+                    <tr style="background-color:darkseagreen">
+                        <td>@blck.id</td>
+                        <td>@blck.timestamp</td>
+                        <td>@blck.data</td>
+                        <td>@blck.hashPrev</td>
+                        <td>@blck.hash</td>
+                    </tr>
+                }
+            }
+
+        </table>
+    }
+</body>
+<script>
+    function getTransaction() {
+
+        /*$.get("http://localhost:3222/getTransaction",
+            function (data) {
+                alert(res);
+            });
+        $.ajax({
+            url: 'http://localhost:3222/getTransaction',
+            method: 'GET',
+            dataType: 'json',
+            success: function (res) {
+                alert(JSON.stringify(res));
+            },
+            error: function (res) {
+                alert(JSON.stringify(res));
+            }
+        });*/
+
+    }
+</script>

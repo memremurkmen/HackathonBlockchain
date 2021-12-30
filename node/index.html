@@ -1,0 +1,44 @@
+<head>  
+   <meta charset="UTF-8">  
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">  
+   <title>Document</title>  
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">  
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+</head>
+
+
+<body>
+<form action="ekle" method="POST" name="kayitformu">
+   <label for="adi">Adınız: </label>
+   <input type="text" id="adi" name="adi" required="required" />
+   <label for="soyadi">Soyadınız: </label>
+   <input type="text" id="soyadi" name="soyadi" required="required" />
+   <input type="button" onclick="gonder()" />
+ </form>
+
+ <script>
+   function gonder() {
+            alert("mal zelal")
+            var adi =$("#adi").val();
+            $.ajax({
+                url: '/getUye',
+                method: 'post',
+                dataType: 'json',
+                data: { 'adi': adi },
+                success: function (response) {
+                    if (response.msg == 'success') {
+                        alert('tc added successfully');
+
+                    } else {
+                        alert('some error occurred try again');
+                    }
+                },
+                error: function (response) {
+                    alert('server error occured')
+                }
+            });
+
+        }
+   </script>
+   </body>

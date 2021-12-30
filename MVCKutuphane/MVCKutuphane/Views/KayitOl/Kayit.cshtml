@@ -1,0 +1,88 @@
+﻿@model DataAccessLayer.Model.Entity.tblUyeler
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kayıt Ol </title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="~/colorlib-regform-7/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/colorlib-regform-7/css/style.css">
+</head>
+<body>
+    <div class="main">
+
+        <!-- Sign up form -->
+        <section class="signup">
+            <div class="container">
+                <div class="signup-content">
+                    <div class="signup-form">
+                        <h2 class="form-title">Kayıt Ol</h2>
+                        <form method="POST" class="register-form" id="register-form">
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                <input type="text" name="AD" id="AD" placeholder=" Ad" />
+                            </div>
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                <input type="text" name="SOYAD" id="SOYAD" placeholder=" Soyad" />
+                            </div>
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                <input type="text" name="KULLANICIADI" id="KULLANICIADI" placeholder=" Kullanıcı Adı" />
+                            </div>
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-phone"></i></label>
+                                <input type="text" name="TELEFON" id="TELEFON" placeholder=" Telefon" />
+                            </div>
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-book"></i></label>
+                                <input type="text" name="OKUL" id="OKUL" placeholder=" Okul" />
+                            </div>
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-account-box-mail"></i></label>
+                                <input type="text" name="TC" id="TC" placeholder=" TC" />
+                            </div>
+                            <div class="form-group">
+                                <label for="name"><i class="zmdi zmdi-calendar"></i></label>
+                                <input type="text" name="DOGUMYILI" id="DOGUMYILI" placeholder=" Doğum Yılı" />
+                            </div>
+                            <div class="form-group">
+                                <label for="email"><i class="zmdi zmdi-email"></i></label>
+                                <input type="email" name="MAIL" id="MAIL" placeholder="Mail" />
+                            </div>
+                            <div class="form-group">
+                                <label for="pass"><i class="zmdi zmdi-lock"></i></label>
+                                <input type="password" name="SIFRE" id="SIFRE" placeholder="Şifre" />
+                            </div>
+
+                            <div class="form-group form-button">
+                                <input type="submit" name="signup" id="signup" class="form-submit" value="Kayıt Ol" />
+                            </div>
+                        </form>
+                    </div>
+                    <div class="signup-image">
+                        <figure><img src="~/colorlib-regform-7/images/signup-image.jpg" alt="sing up image"></figure>
+                        <a href="/Login/Index" class="signup-image-link">Zaten üyeyim</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+    </div>
+
+    <!-- JS -->
+    <script src="~/colorlib-regform-7/vendor/jquery/jquery.min.js"></script>
+    <script src="~/colorlib-regform-7/js/main.js"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>

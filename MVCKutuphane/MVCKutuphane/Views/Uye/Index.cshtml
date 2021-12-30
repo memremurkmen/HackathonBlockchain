@@ -1,0 +1,52 @@
+﻿@using DataAccessLayer.Model.Entity
+@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<getAllUye>
+
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml"; }
+
+<title>Üyeler</title>
+<h2>Üyeler</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ÜYE ID</th>
+        <th>ÜYE ADI</th>
+        <th>ÜYE SOYADI</th>
+        <th>MAİL</th>
+        <th>KULLANICI ADI</th>
+        <th>ŞİFRESİ</th>
+        <th>TELEFON</th>
+        <th>OKUL</th>
+        <th>TC</th>
+        <th>DOĞUM YILI</th>
+        <th>İADE ETMEDİĞİ KİTAP SAYISI</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    @foreach (var uye in Model)
+    {
+<tr>
+    <td>@uye.ID</td>
+    <td>@uye.AD</td>
+    <td>@uye.SOYAD</td>
+    <td>@uye.MAIL</td>
+    <td>@uye.KULLANICIADI</td>
+    <td>@uye.SIFRE</td>
+    <td>@uye.TELEFON</td>
+    <td>@uye.OKUL</td>
+    <td>@uye.TC</td>
+    <td>@uye.DOGUMYILI</td>
+    <td>@uye.iadesizKitapSayisi</td>
+
+
+
+    <td><a href="/Uye/UyeSil/@uye.ID" class="btn btn-danger">Sil</a></td>
+    <td><a href="/Uye/UyeGetir/@uye.ID" class="btn btn-success">Güncelle</a></td>
+</tr>}
+
+</table>
+<p>Toplam Üye Sayısı: @ViewBag.uyeSayisi</p>
+@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("Index", new { sayfa }))
+<a href="/Uye/UyeEkle/" class="btn btn-primary">Yeni Üye Ekle</a>

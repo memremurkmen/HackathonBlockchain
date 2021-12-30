@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "AnaSayfa";
+    Layout = "~/Views/Shared/LayoutPanel.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ana Sayfa</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div align="center" class="container-fluid">
+        <h2 class="jumbotron-fluid" style="background-color:#e4aeae;">Kütüphanemizden Fotoğraflar</h2>
+        <div align="center" id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 80%;height: 80%;">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img src="~/login-form-20/login-form-20/images/l1.jpg" alt="Kütüphane" style="width:100%; height: 100%">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3 style="background-color:#f1d8d8; color:#000000">Büyük bir kütüphaneden başka neresi sana sığınak olabilir.</h3>
+                        <i style=" font-size:20px;"> -İtalo Calvino</i>
+                    </div>
+                </div>
+
+                <div class="item">
+
+                    <img src="~/login-form-20/login-form-20/images/l2.jpg" alt="Kütüphane" style="width:100%;height: 100%">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3 style="background-color:#f1d8d8; color:#000000">Kütüphane insanın yıldızlara tırmanmaya niyet ettiği bir rasathanedir..</h3>
+                        <i style=" font-size:20px;">-Mehmet Tekiner</i>
+                    </div>
+
+                </div>
+
+                <div class="item">
+                    <img src="~/login-form-20/login-form-20/images/l3.jpg" alt="Kütüphane" style="width:100%;height: 100%">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3 style="background-color:#f1d8d8; color:#000000">İnşa edilen bir kütüphane, yaratılan bir hayattır</h3>
+                        <i style=" font-size:20px;">-Carlos Maria Dominguez</i>
+                    </div>
+
+                    s
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">Geri</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">İleri</span>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
